@@ -29,6 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['192.168.1.20, 'cloudwatch.com']
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
